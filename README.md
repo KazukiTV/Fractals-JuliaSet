@@ -1,7 +1,7 @@
 # Fractals-JuliaSet
 Algorithm in python that generates fractals based on the Julia Set.
 
-The julia set is formed by points in the complex plane that small differences between them can cause a big change after iterating these points in a function. Learn more: [Julia Set - Wkipedia](https://en.wikipedia.org/wiki/Julia_set).
+The julia set is formed by points in the complex plane that small differences between them can cause a big change after iterating these points in a function. Learn more: [Julia Set - Wikipedia](https://en.wikipedia.org/wiki/Julia_set).
 
 in this case, the interaction function is: f(z) = z² + c
 
